@@ -161,7 +161,7 @@ chicken{
  background-position: top center;
 }
 #flat .line-break one {
- background: linear-gradient(60deg, #0091EA, #00B0FF, #40C4FF);
+ background: linear-gradient( #0091EA, #00B0FF, #40C4FF);
  width: 100%;
  margin: 0 auto;
 }
@@ -192,4 +192,4 @@ chicken{
   padding: 30px 15px;
   width: 290px;
  }
-}
+} 
