@@ -161,11 +161,21 @@ chicken{
  background-repeat: no-repeat;
  background-position: top center;
 }
-#flat .line-break one {
+#flat .line-break-one {
  background: linear-gradient( #0091EA, #00B0FF, #40C4FF);
  width: 100%;
  margin: 0 auto;
 }
+#flat .line-break-two {
+ background: linear-gradient( #00B0FF, #40C4FF, #80D8FF);
+ width: 100%;
+ margin: 0 auto;
+ }
+ #flat .line-break-three {
+ background: linear-gradient( #80D8FF, #B3E5FC, #E1F5FE);
+ width: 100%;
+ margin: 0 auto;
+  }
 @media screen and (max-width: 959px) and (min-width: 768px) {
  #flat .block {
   padding: 40px;
