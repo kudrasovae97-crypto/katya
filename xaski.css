@@ -76,16 +76,16 @@ first-character {
  font-family: 'Source Sans Pro', sans-serif;
 }
 cat{
- color:#0091EA
- font-family: "Arial", sans-serif;
+	color:#00008B
+	font-family: "Arial", sans-serif;
 }
 dog{
- color:#00B0FF
- font-family:"Arial", sans-serif;
+	color:#1E90FF
+	font-family:"Arial", sans-serif;
 }
 chicken{
- color:#40C4FF
- font-family:"Arial", sans-serif;
+	color:#87CEEB
+	font-family:"Arial", sans-serif;
  }
 #flat .title {
  background: white;
@@ -162,17 +162,17 @@ chicken{
  background-position: top center;
 }
 #flat .line-break-one {
- background: linear-gradient( #0091EA, #00B0FF, #40C4FF);
+ background: linear-gradient(60deg, #00008B, #0000CD, #0000FF);
  width: 100%;
  margin: 0 auto;
 }
 #flat .line-break-two {
- background: linear-gradient( #00B0FF, #40C4FF, #80D8FF);
+ background: linear-gradient(60deg, #1E90FF, #00BFFF, #87CEFA);
  width: 100%;
  margin: 0 auto;
- }
- #flat .line-break-three {
- background: linear-gradient( #80D8FF, #B3E5FC, #E1F5FE);
+}
+#flat .line-break-three {
+ background: linear-gradient(60deg, #87CEEB, #ADD8E6, #B0E0E6);
  width: 100%;
  margin: 0 auto;
   }
