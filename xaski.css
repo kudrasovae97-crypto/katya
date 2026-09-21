@@ -74,15 +74,15 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
 }
 .first {
-	color:#00008B
+	color:#00008B;
 	font-family: "Arial", sans-serif;
 }
 .second {
-	color:#1E90FF
+	color:#1E90FF;
 	font-family: "Arial", sans-serif;
 }
 .third {
-	color:#87CEEB
+	color:#87CEEB;
 	font-family: "Arial", sans-serif;
 }
 #flat .title {
