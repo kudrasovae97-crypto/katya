@@ -37,7 +37,6 @@ html, body {
  padding: 0;
  margin: 0;
 }
-
 #flat h2 {
  font-family: 'Oswald', sans-serif;
  font-size: 70px;
@@ -49,7 +48,6 @@ html, body {
  z-index: 10;
  opacity: .9;
 }
-
 #flat h3 {
  font-family: 'Oswald', sans-serif;
  font-size: 14px;
@@ -75,18 +73,18 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-.cat{
+.first {
 	color:#00008B
 	font-family: "Arial", sans-serif;
 }
-.dog{
+.second {
 	color:#1E90FF
-	font-family:"Arial", sans-serif;
+	font-family: "Arial", sans-serif;
 }
-.chicken{
+.third {
 	color:#87CEEB
-	font-family:"Arial", sans-serif;
- }
+	font-family: "Arial", sans-serif;
+}
 #flat .title {
  background: white;
  padding: 60px;
