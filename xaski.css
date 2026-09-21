@@ -3,8 +3,8 @@
 html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
-  margin: 20;
-  background-color: #01579B;
+  margin: 0;
+  background-color: blue;
 }
 .box {
     width: 80%;
@@ -65,7 +65,7 @@ html, body {
  font-size: 14px;
  line-height: 24px;
 }
-first-character {
+.first-character {
  font-weight: 400;
  float: left;
  font-size: 84px;
@@ -75,15 +75,15 @@ first-character {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-cat{
+.cat{
 	color:#00008B
 	font-family: "Arial", sans-serif;
 }
-dog{
+.dog{
 	color:#1E90FF
 	font-family:"Arial", sans-serif;
 }
-chicken{
+.chicken{
 	color:#87CEEB
 	font-family:"Arial", sans-serif;
  }
@@ -145,7 +145,7 @@ chicken{
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
- background-position: top center;
+ background-position: center center;
 }
 #flat .parallax-three {
  padding-top: 200px;
@@ -159,19 +159,19 @@ chicken{
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
- background-position: top center;
+ background-position: center center;
 }
-#flat .line-break-one {
+#flat .line-break1 {
  background: linear-gradient(60deg, #00008B, #0000CD, #0000FF);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break-two {
+#flat .line-break2 {
  background: linear-gradient(60deg, #1E90FF, #00BFFF, #87CEFA);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break-three {
+#flat .line-break3 {
  background: linear-gradient(60deg, #87CEEB, #ADD8E6, #B0E0E6);
  width: 100%;
  margin: 0 auto;
